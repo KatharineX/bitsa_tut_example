@@ -8,8 +8,8 @@ Sadly, your teammate is on holiday and they didn't get the chance to tell what t
 Figure out the most recent version and get the versions into master. 
 
 Versioning:
-1.65 > 1.55
-2.80 > 1.80
+- 1.65 > 1.55
+- 2.80 > 1.80
 
 Hints:
 You can speak to one another.
