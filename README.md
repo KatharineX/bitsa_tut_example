@@ -22,6 +22,8 @@ Current branches:
 - BITSA_branch_5
 
 Useful github commands:
-- RENAME:
-- DELETE BRANCH:
-- CREATE BRANCH:
+- RENAME: https://stackoverflow.com/questions/30590083/how-do-i-rename-both-a-git-local-and-remote-branch-name
+- CHECKOUT BRANCH: git checkout <branch-name>
+- DELETE BRANCH: https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely
+- CREATE BRANCH: git branch <branch-name>
+- MERGE BRANCH: https://www.atlassian.com/git/tutorials/using-branches/git-merge
