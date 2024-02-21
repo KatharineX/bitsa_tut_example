@@ -1,0 +1,10 @@
+applications:
+  - 
+    name: credit-card-service
+    version: 1.0
+  - 
+    name: debit-card-service
+    version: 1.0
+  - 
+    name: cash-service
+    version: 1.0
